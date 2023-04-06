@@ -70,5 +70,5 @@
     - #### Usage of constructor in non-abstract class
       ![abstract_class_usage_of_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstrat_class_constructor_in_non_abstract_class.png)
     - #### Accessing field of abstract class from non-abstract class
-      ![abstract_class_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_field_getter_usage.png)     
+      ![abstract_class_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_access_fields.png)     
       
