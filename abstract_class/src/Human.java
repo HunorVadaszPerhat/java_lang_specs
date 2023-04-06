@@ -77,7 +77,6 @@ abstract class Human {
             int a, int b, int c, int d,
             // STATIC
             int i, int j, int k, int l
-
             // FINAL -> Cannot assign a value to final variable
             // STATIC + FINAL -> Cannot assign a value to final variable
     ) {
@@ -104,5 +103,85 @@ abstract class Human {
         // this.n = n; -> Cannot assign a value to final variable 'n'
         // this.o = o; -> Cannot assign a value to final variable 'o'
         // this.p = p; -> Cannot assign a value to final variable 'p'
+    }
+
+    public int getA() {
+        return a;
+    }
+
+    public void setA(int a) {
+        this.a = a;
+    }
+
+    public int getB() {
+        return b;
+    }
+
+    public void setB(int b) {
+        this.b = b;
+    }
+
+    public int getC() {
+        return c;
+    }
+
+    public void setC(int c) {
+        this.c = c;
+    }
+
+    public int getD() {
+        return d;
+    }
+
+    public void setD(int d) {
+        this.d = d;
+    }
+
+    public int getE() {
+        return e;
+    }
+
+    public int getF() {
+        return f;
+    }
+
+    public int getG() {
+        return g;
+    }
+
+    public int getH() {
+        return h;
+    }
+
+    public static int getI() {
+        return i;
+    }
+
+    public static void setI(int i) {
+        Human.i = i;
+    }
+
+    public static int getJ() {
+        return j;
+    }
+
+    public static void setJ(int j) {
+        Human.j = j;
+    }
+
+    public static int getK() {
+        return k;
+    }
+
+    public static void setK(int k) {
+        Human.k = k;
+    }
+
+    public static int getL() {
+        return l;
+    }
+
+    public static void setL(int l) {
+        Human.l = l;
     }
 }
