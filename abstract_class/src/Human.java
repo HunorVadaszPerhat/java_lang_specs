@@ -37,6 +37,10 @@ abstract class Human {
      * - fields can be static and non-static
      * - fields can be final and non-final
      * */
+
+    /*
+     * NON-STATIC AND NON-FINAL
+     * */
     int a;
     private int b;
     public int c;
