@@ -10,7 +10,7 @@
 | [Same package and subclass](#same-package-and-subclass)         | :white_check_mark: | :x:                | :white_check_mark: | :white_check_mark: |
 | [Same package and non-subclass](#same-package-and-non-subclass)     | :white_check_mark: | :x:                | :white_check_mark: | :white_check_mark: |
 | [Different package and subclass](#different-package-and-subclass)    | :x:                | :x:                | :white_check_mark: | :white_check_mark: |
-| [Different package and non-subclass]| :x:                | :x:                | :x:                | :white_check_mark: |
+| [Different package and non-subclass](#different-package-and-non-subclass)| :x:                | :x:                | :x:                | :white_check_mark: |
 
 ### Same class
 ![access_modifiers_same_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/access_modifiers_same_class.png)
