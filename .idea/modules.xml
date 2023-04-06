@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/access_modifiers/access_modifiers.iml" filepath="$PROJECT_DIR$/access_modifiers/access_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_lang_specs.iml" filepath="$PROJECT_DIR$/.idea/java_lang_specs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access_modifiers/package1/package1.iml" filepath="$PROJECT_DIR$/access_modifiers/package1/package1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access_modifiers/package2/package2.iml" filepath="$PROJECT_DIR$/access_modifiers/package2/package2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access_modifiers/package_1/package_1.iml" filepath="$PROJECT_DIR$/access_modifiers/package_1/package_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/access_modifiers/package_2/package_2.iml" filepath="$PROJECT_DIR$/access_modifiers/package_2/package_2.iml" />
+    </modules>
+  </component>
+</project>
