@@ -13,6 +13,6 @@ public class Demo5 {
     System.out.println(demo1.c);
     // private member cannot be accessed outside of package as non-subclass
     System.out.println(demo1.d);
-    
+
     System.out.println(demo1.a + demo1.b + demo1.c + demo1.d);
 }
