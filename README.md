@@ -12,3 +12,4 @@
 | different package & subclass    | :x:                | :x:                | :white_check_mark: | :white_check_mark: |
 | different package & non-subclass| :x:                | :x:                | :x:                | :white_check_mark: |
 
+![access_modifiers](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/access_modifiers.png)
