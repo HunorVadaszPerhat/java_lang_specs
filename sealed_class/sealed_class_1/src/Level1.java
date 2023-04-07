@@ -1,2 +1,2 @@
-non-sealed public class Level1 extends Bottom {
+final public class Level1 extends Bottom {
 }
