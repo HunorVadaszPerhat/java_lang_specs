@@ -1,4 +1,4 @@
-sealed class SealedClass permits FinalSubClass, SealedSubClass {
+sealed class SealedClass permits FinalSubClass, NonSealedSubClass {
 }
 
 
