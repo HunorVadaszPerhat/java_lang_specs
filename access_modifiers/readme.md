@@ -1,4 +1,9 @@
 ## Access Modifiers
+  - [Same class](#same-class)
+  - [Same package and subclass](#same-package-and-subclass)
+  - [Same package and non-subclass](#same-package-and-non-subclass)
+  - [Different package and subclass](#different-package-and-subclass)
+  - [Different package and non-subclass](#different-package-and-non-subclass)
 
 |                                 |default             |private             |protected           |public              |
 |---                              |---                 |---                 |---                 |---                 |          
