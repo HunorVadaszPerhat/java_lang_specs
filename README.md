@@ -93,3 +93,15 @@
 ### Access modifiers
   - abstract class: methods can have private, public, default and protected
   - interface: methods are by default *public abstract* only
+### Variables
+  - abstract class: can be non-static and non-final
+  - interface: by default are *public static final*
+### Constructor
+  - abstract class: can have constructor
+  - interface: cannot have constructor
+### Multiple inheritance
+  - abstract class: can extend at most one class and implement one or more interfaces
+  - interface: can only extend one or more interfaces
+### Extends/Implements
+  - abstract class: abstract classes are extended by the sub-class. Sub-classes need to provide implementation for all abstract methods or class shall be declared as abstract as well
+  - interface: cannot have constructor
