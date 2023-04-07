@@ -1,2 +1,2 @@
-final public class Level1 extends Bottom {
+public class Level1 extends Bottom {
 }
