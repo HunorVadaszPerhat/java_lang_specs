@@ -1,2 +1,2 @@
-final public class Level2  {
+non-sealed public class Level2 extends Level1{
 }

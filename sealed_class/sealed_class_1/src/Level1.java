@@ -1,2 +1,2 @@
-sealed public class Level1 extends Bottom {
+sealed public class Level1 extends Bottom permits Level2 {
 }
