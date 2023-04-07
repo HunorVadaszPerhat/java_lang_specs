@@ -104,4 +104,4 @@
   - interface: can only extend one or more interfaces
 ### Extends/Implements
   - abstract class: abstract classes are extended by the sub-class. Sub-classes need to provide implementation for all abstract methods or class shall be declared as abstract as well
-  - interface: cannot have constructor
+  - interface: interface is implemented by a class and the implementing class needs to provide implementation for all methods. If class does not implement all methods class shall be declared as abstract
