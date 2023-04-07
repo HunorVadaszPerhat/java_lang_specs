@@ -21,3 +21,23 @@
       ![abstract_class_constructor](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_constructor.png)
     - #### Usage of constructor in non-abstract class
       ![abstract_class_usage_of_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstrat_class_constructor_in_non_abstract_class.png)
+
+## Abstract class vs interface
+### Methods
+  - abstract class: can be abstract and nont abstract
+  - interface: can be abstract, default, static
+### Access modifiers
+  - abstract class: methods can have private, public, default and protected
+  - interface: methods are by default *public abstract* only
+### Variables
+  - abstract class: can be non-static and non-final
+  - interface: by default are *public static final*
+### Constructor
+  - abstract class: can have constructor
+  - interface: cannot have constructor
+### Multiple inheritance
+  - abstract class: can extend at most one class and implement one or more interfaces
+  - interface: can only extend one or more interfaces
+### Extends/Implements
+  - abstract class: abstract classes are extended by the sub-class. Sub-classes need to provide implementation for all abstract methods or class shall be declared as abstract as well
+  - interface: interface is implemented by a class and the implementing class needs to provide implementation for all methods. If class does not implement all methods class shall be declared as abstract
