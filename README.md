@@ -23,6 +23,7 @@
   - [Fields in interface](#fields-in-interface) 
   - [Constructors in interface](#constructors-in-interface)
   - [Methods in interface](#methods-in-interface)
+  - [Access fields and methods of interface](#access-fields-and-methods-of-interface)
 
 ## Access Modifiers
 
@@ -68,7 +69,7 @@
     - #### Static final
       ![abstract_static_final](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_static_final_field.png)
   - ### Constructors in abstract class:
-    - #### Constructors in abstract class 
+    - #### Constructor in abstract class 
       ![abstract_class_constructor](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_constructor.png)
     - #### Usage of constructor in non-abstract class
       ![abstract_class_usage_of_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstrat_class_constructor_in_non_abstract_class.png)
@@ -86,4 +87,6 @@
     - can be *abstract*, *default* and *static*
     - are by default *PUBLIC ABSTRACT* 
     ![interface_methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/interface_methods.png)
+  - ### Access fields and methods of interface
+    ![access_fields_methods_of_interface](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/interface_access_fields_methods.png)
       
