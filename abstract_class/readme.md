@@ -10,6 +10,7 @@
   - [Constructors in abstract class](#constructors-in-abstract-class)
     - [Constructor in abstract class](#constructor-in-abstract-class)
     - [Usage of constructor in non-abstract class](#usage-of-constructor-in-non-abstract-class)
+  - [Abstract class vs interface](#abstract-class-vs-interface)
 
   - ### Methods in abstract class:
     - #### Abstract  
