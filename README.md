@@ -18,12 +18,11 @@
   - [Constructors in abstract class](#constructors-in-abstract-class)
     - [Constructor in Abstract class](#constructor-in-abstract-class)
     - [Usage of constructor in non-abstract class](#usage-of-constructor-in-non-abstract-class)
-    - [Accessing field of abstract class from non-abstract class](#accessing-field-of-abstract-class-from-non-abstract-class)
 - [Interface](#interface)
   - [Fields in interface](#fields-in-interface) 
   - [Constructors in interface](#constructors-in-interface)
   - [Methods in interface](#methods-in-interface)
-  - [Access fields and methods of interface](#access-fields-and-methods-of-interface)
+
 
 ## Access Modifiers
 
@@ -73,8 +72,7 @@
       ![abstract_class_constructor](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_constructor.png)
     - #### Usage of constructor in non-abstract class
       ![abstract_class_usage_of_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstrat_class_constructor_in_non_abstract_class.png)
-    - #### Accessing field of abstract class from non-abstract class
-      ![abstract_class_constructor_in_non_abstract_class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/abstract_class_accessing_fields.png)     
+    
     
 ## Interface
   - ### Fields in interface
@@ -87,6 +85,4 @@
     - can be *abstract*, *default* and *static*
     - are by default *PUBLIC ABSTRACT* 
     ![interface_methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/interface_methods.png)
-  - ### Access fields and methods of interface
-    ![access_fields_methods_of_interface](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/interface_access_fields_methods.png)
-      
+ 
