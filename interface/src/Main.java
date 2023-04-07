@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Zombie zombie = new Zombie();
+
         // Accessing abstract and default methods
         // From Zombie class that implements Human interface
         zombie.display();

@@ -12,7 +12,7 @@ abstract class Human {
     abstract void defaultDisplayAbstract();
     abstract public void publicDisplayAbstract();
     // Illegal combination of modifiers: 'abstract' and 'private'
-    //abstract private void privateDisplayAbstract();
+    // abstract private void privateDisplayAbstract();
     abstract protected void protectedDisplayAbstract();
 
     /*
