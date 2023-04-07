@@ -86,3 +86,10 @@
     - are by default *PUBLIC ABSTRACT* 
     ![interface_methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/interface_methods.png)
  
+## Abstract class vs interface
+### Methods
+  - abstract class: can be abstract and nont abstract
+  - interface: can be abstract, default, static
+### Access modifiers
+  - abstract class: methods can have private, public, default and protected
+  - interface: methods are by default *public abstract* only
