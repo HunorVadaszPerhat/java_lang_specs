@@ -1,3 +1,3 @@
-sealed class Bottom {
+sealed class Bottom permits Level1 {
 }
 
