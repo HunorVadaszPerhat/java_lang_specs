@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/package2/package2.iml" filepath="$PROJECT_DIR$/access_modifiers/package2/package2.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/package_1/package_1.iml" filepath="$PROJECT_DIR$/access_modifiers/package_1/package_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/package_2/package_2.iml" filepath="$PROJECT_DIR$/access_modifiers/package_2/package_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sealed_class/sealed_class.iml" filepath="$PROJECT_DIR$/sealed_class/sealed_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" />
     </modules>
   </component>
