@@ -16,7 +16,7 @@
     - [Static](#static)
     - [Static final](#static-final)
   - [Constructors in abstract class](#constructors-in-abstract-class)
-    - [Constructor in Abstract class](#constructor-in-abstract-class)
+    - [Constructor in abstract class](#constructor-in-abstract-class)
     - [Usage of constructor in non-abstract class](#usage-of-constructor-in-non-abstract-class)
 - [Interface](#interface)
   - [Fields in interface](#fields-in-interface) 
