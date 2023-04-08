@@ -14,3 +14,7 @@
 - static variables are also known as class variables
 - unlike non-static variables, static variables can be accessed in directly in both static and non-static methods
   ![Static variable](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_variable.png)
+
+### Static methods
+- static methods can access class variables without using object of the class (non-static variables and non-static methods can ONLY be accessed using objects)
+- static methods can be accessed directly in static and non-static methods
