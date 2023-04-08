@@ -1,7 +1,7 @@
 # JAVA Lang Specs
 
 - [Access modifiers](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/access_modifiers)
-  - [Same class](#)
+  - [Same class]
   - [Same package and subclass](#)
   - [Same package and non-subclass](#)
   - [Different package and subclass](#)
