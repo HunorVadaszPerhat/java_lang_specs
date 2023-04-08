@@ -26,4 +26,4 @@
 - a class can be made static ONLY IF it is a nested class
 - a nested static class does not need reference of Outer class
 - a static class cannot non-static members of Outer class
-  ![Static class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_classes.png)
+  ![Static class](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_classes_access.png)
