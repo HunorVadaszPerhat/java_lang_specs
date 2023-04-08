@@ -1,6 +1,6 @@
 ## Static keyword
-- [Static block](#static-block)
-- [Static variable](#static-variable)
+- [Static blocks](#static-block)
+- [Static variables](#static-variable)
 
 ### Static blocks
 - static block is used for initializing static variable
