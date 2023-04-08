@@ -4,7 +4,6 @@
   - [Fields in interface](#fields-in-interface) 
   - [Constructors in interface](#constructors-in-interface)
   - [Methods in interface](#methods-in-interface)
-  
 - [Abstract class vs interface](#abstract-class-vs-interface)
 
  ### Fields in interface
