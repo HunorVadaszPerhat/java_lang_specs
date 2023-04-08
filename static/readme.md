@@ -1,6 +1,7 @@
 ## Static keyword
 - [Static blocks](#static-blocks)
 - [Static variables](#static-variables)
+- [Static methods](#static-methods)
 
 ### Static blocks
 - static block is used for initializing static variable
@@ -18,3 +19,6 @@
 ### Static methods
 - static methods can access class variables without using object of the class (non-static variables and non-static methods can ONLY be accessed using objects)
 - static methods can be accessed directly in static and non-static methods
+![Static methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_methods.png)
+
+
