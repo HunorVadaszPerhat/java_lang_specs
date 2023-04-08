@@ -29,5 +29,5 @@
   - Local inner class
   - Nested inner class
   - Static inner class
-
+- [Sealed class](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/sealed_class)
 
