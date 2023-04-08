@@ -6,7 +6,6 @@ public class Outer {
     static class Inner {
         void display(){
             System.out.println("From Outer class, x is: " + x);
-
             // Non-static field 'y' cannot be referenced from a static context
             // System.out.println("From Outer class, y is: " + y);
         }
