@@ -1,6 +1,8 @@
 ## Static keyword
 - [Static blocks](#static-blocks)
 - [Static variables](#static-variables)
+- [Static methods](#static-methods)
+- [Static class](#static-class)
 
 ### Static blocks
 - static block is used for initializing static variable
@@ -14,3 +16,13 @@
 - static variables are also known as class variables
 - unlike non-static variables, static variables can be accessed in directly in both static and non-static methods
   ![Static variable](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_variable.png)
+
+### Static methods
+- static methods can access class variables without using object of the class (non-static variables and non-static methods can ONLY be accessed using objects)
+- static methods can be accessed directly in static and non-static methods
+![Static methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/static_methods.png)
+
+### Static class
+- a class can be made static ONLY IF it is a nested class
+- a nested static class does not need reference of Outer class
+- a static class cannot non-static members of Outer class
