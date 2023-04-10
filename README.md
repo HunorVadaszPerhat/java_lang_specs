@@ -39,5 +39,8 @@
   - Final variables
   - Final methods
   - Final class
+- [Generic class](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/generic_class)
+  - Sigle type
+  - Multiple types
 
 
