@@ -15,5 +15,9 @@
 
 ### Final method
 - final methods CANNOT be overriden by subclass
-- BUT final methods CAN be called by subclass
 ![Final methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/final_methods.png)
+
+- BUT final methods CAN be called by subclass
+![Final methods call from subclass](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/final_methods_call_from_subclass.png)
+
+
