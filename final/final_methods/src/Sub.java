@@ -3,6 +3,7 @@ public class Sub extends Super {
     void method1(){};
 
     void method2(){
+        method1();
         System.out.println("Sub class : non-final method2");
     }
 }
