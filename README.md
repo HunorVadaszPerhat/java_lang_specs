@@ -35,5 +35,9 @@
   - Static variables
   - Static methods
   - Static class
+- [Final keyword](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/final)
+  - Final variables
+  - Final methods
+  - Final class
 
 
