@@ -13,3 +13,7 @@
 ![Final variables](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/final_variables.png)
 
 
+### Final method
+- final methods CANNOT be overriden by subclass
+- BUT final methods CAN be called by subclass
+![Final methods](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/final_methods.png)
