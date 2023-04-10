@@ -1,6 +1,6 @@
 public class Sub extends Super {
     // final methods CANNOT BE OVERRIDEN by sub-classes
-    void method1(){};
+    // void method1(){};
 
     void method2(){
         method1();

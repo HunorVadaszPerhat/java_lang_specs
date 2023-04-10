@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/static/static_block/static_block.iml" filepath="$PROJECT_DIR$/static/static_block/static_block.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static_members/static_members.iml" filepath="$PROJECT_DIR$/static/static_members/static_members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transient_keyword/transient_keyword.iml" filepath="$PROJECT_DIR$/transient_keyword/transient_keyword.iml" />
     </modules>
   </component>
 </project>
