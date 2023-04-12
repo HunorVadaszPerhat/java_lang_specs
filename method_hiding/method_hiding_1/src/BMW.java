@@ -1,5 +1,4 @@
 public class BMW extends Car {
-    public void methodA(){
-
-    }
+    // Instance method 'methodA()' in 'BMW' cannot override static method 'methodA()' in 'Car'
+    //public void methodA(){}
 }
