@@ -1,5 +1,6 @@
 public class BMW extends Car {
-    public static void methodA(){}
+    // Static method 'methodA()' in 'BMW' cannot override instance method 'methodA()' in 'Car'
+    // public static void methodA(){}
 }
 
 
@@ -11,7 +12,6 @@ public class BMW extends Car {
 
 
 
-// Static method 'methodA()' in 'BMW' cannot override instance method 'methodA()' in 'Car'
 
 
 

@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/method_hiding/method_hiding.iml" filepath="$PROJECT_DIR$/method_hiding/method_hiding.iml" />
       <module fileurl="file://$PROJECT_DIR$/method_hiding/method_hiding_1/method_hiding_1.iml" filepath="$PROJECT_DIR$/method_hiding/method_hiding_1/method_hiding_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/method_hiding/method_hiding_2/method_hiding_2.iml" filepath="$PROJECT_DIR$/method_hiding/method_hiding_2/method_hiding_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method_hiding/method_hiding_3/method_hiding_3.iml" filepath="$PROJECT_DIR$/method_hiding/method_hiding_3/method_hiding_3.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/nested_inner_class/nested_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/package1/package1.iml" filepath="$PROJECT_DIR$/access_modifiers/package1/package1.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/package2/package2.iml" filepath="$PROJECT_DIR$/access_modifiers/package2/package2.iml" />
