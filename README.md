@@ -44,9 +44,9 @@
   - Multiple types
 - [Transient keyword](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/transient_keyword)
 - [Method hiding](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/method_hiding)
-  - Instance method in superclass cannot overrite static method in subclass
-  - Static method in subclass cannot override instance method in superclass
-  - The method for a created object will be called
-  - The method for class type will be called
+  - Instance method in subclass
+  - Static method in subclass
+  - The method of object
+  - The method of class type
 
 
