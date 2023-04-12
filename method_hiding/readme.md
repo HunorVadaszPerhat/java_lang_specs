@@ -9,3 +9,7 @@ Static method in subclass cannot override instance method in superclass:
 The method for a created object will be called:
 ![method hide 3](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/method_hide_3.png)
 
+The method for class type will be called:
+![method hide 4](https://github.com/HunorVadaszPerhat/java_lang_specs/blob/main/images/method_hide_4.png)
+
+
