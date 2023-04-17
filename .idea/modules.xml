@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/abstract_class/abstract_class.iml" filepath="$PROJECT_DIR$/abstract_class/abstract_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/access_modifiers.iml" filepath="$PROJECT_DIR$/access_modifiers/access_modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/constructor_call/constructor_call.iml" filepath="$PROJECT_DIR$/super/constructor_call/constructor_call.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_class/final_class.iml" filepath="$PROJECT_DIR$/final/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_methods/final_methods.iml" filepath="$PROJECT_DIR$/final/final_methods/final_methods.iml" />
@@ -30,6 +31,7 @@
       <module fileurl="file://$PROJECT_DIR$/static/static_block/static_block.iml" filepath="$PROJECT_DIR$/static/static_block/static_block.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/static_inner_class/static_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/static/static_members/static_members.iml" filepath="$PROJECT_DIR$/static/static_members/static_members.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/super.iml" filepath="$PROJECT_DIR$/super/super.iml" />
       <module fileurl="file://$PROJECT_DIR$/transient_keyword/transient_keyword.iml" filepath="$PROJECT_DIR$/transient_keyword/transient_keyword.iml" />
     </modules>
   </component>
