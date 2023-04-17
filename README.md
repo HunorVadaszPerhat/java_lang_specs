@@ -48,5 +48,7 @@
   - Static method in subclass
   - The method of object
   - The method of class type
+- [Super](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/super)
+  - Calling superclass constructor 
 
 
