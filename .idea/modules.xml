@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/abstract_class/abstract_class.iml" filepath="$PROJECT_DIR$/abstract_class/abstract_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/access_modifiers/access_modifiers.iml" filepath="$PROJECT_DIR$/access_modifiers/access_modifiers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/super/access_superclass_method_variable/access_superclass_method_variable.iml" filepath="$PROJECT_DIR$/super/access_superclass_method_variable/access_superclass_method_variable.iml" />
       <module fileurl="file://$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/super/constructor_call/constructor_call.iml" filepath="$PROJECT_DIR$/super/constructor_call/constructor_call.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
