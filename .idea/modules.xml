@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" filepath="$PROJECT_DIR$/inner_class/anonymous_inner_class/anonymous_inner_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/super/constructor_call/constructor_call.iml" filepath="$PROJECT_DIR$/super/constructor_call/constructor_call.iml" />
       <module fileurl="file://$PROJECT_DIR$/this/constructor_overloading/constructor_overloading.iml" filepath="$PROJECT_DIR$/this/constructor_overloading/constructor_overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dynamic_method_dispatch/dynamic_method_dispatch.iml" filepath="$PROJECT_DIR$/dynamic_method_dispatch/dynamic_method_dispatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_class/final_class.iml" filepath="$PROJECT_DIR$/final/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_methods/final_methods.iml" filepath="$PROJECT_DIR$/final/final_methods/final_methods.iml" />

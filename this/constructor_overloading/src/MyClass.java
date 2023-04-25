@@ -1,7 +1,7 @@
 public class MyClass {
     private int x;
     private int y;
-    
+
     public MyClass() {
         // Calls the two-parameter constructor with default values
         this(0, 0);
