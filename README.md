@@ -53,6 +53,6 @@
   - Access superclass method variable
 - [This](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/this)
   - Constructor overloading
-- [Dynamic Method Dispatch](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/dynamic_method_disptach)
+- [Dynamic Method Dispatch](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/dynamic_method_dispatch)
  
 
