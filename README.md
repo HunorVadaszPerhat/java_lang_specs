@@ -54,5 +54,8 @@
 - [This](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/this)
   - Constructor overloading
 - [Dynamic Method Dispatch](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/dynamic_method_dispatch)
- 
+- [Enum](https://github.com/HunorVadaszPerhat/java_lang_specs/tree/main/enum)
+  - Enum for-loop
+  - Enum if-else
+  - Enum switch case
 
