@@ -12,17 +12,8 @@ public class Main {
         // method2 from Sub
         sub.method2();
         // Cannot resolve method 'method3' in 'Super'
-        sub.method3();
+        //sub.method3();
 
-
-
-
-
-
-
-
-
-        
         //Sub sub1 = new Super();
     }
 }

@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/super/constructor_call/constructor_call.iml" filepath="$PROJECT_DIR$/super/constructor_call/constructor_call.iml" />
       <module fileurl="file://$PROJECT_DIR$/this/constructor_overloading/constructor_overloading.iml" filepath="$PROJECT_DIR$/this/constructor_overloading/constructor_overloading.iml" />
       <module fileurl="file://$PROJECT_DIR$/dynamic_method_dispatch/dynamic_method_dispatch.iml" filepath="$PROJECT_DIR$/dynamic_method_dispatch/dynamic_method_dispatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum.iml" filepath="$PROJECT_DIR$/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum_for_loop/enum_for_loop.iml" filepath="$PROJECT_DIR$/enum/enum_for_loop/enum_for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum_if_then/enum_if_then.iml" filepath="$PROJECT_DIR$/enum/enum_if_then/enum_if_then.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enum/enum_switch_case/enum_switch_case.iml" filepath="$PROJECT_DIR$/enum/enum_switch_case/enum_switch_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final.iml" filepath="$PROJECT_DIR$/final/final.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_class/final_class.iml" filepath="$PROJECT_DIR$/final/final_class/final_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/final/final_methods/final_methods.iml" filepath="$PROJECT_DIR$/final/final_methods/final_methods.iml" />
